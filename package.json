@@ -1,0 +1,30 @@
+{
+  "name": "@wobb-ai/wobb-react-native-linkdin",
+  "version": "1.0.0",
+  "description": "React native linkedin iOS and android.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minor": "npm version patch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wobb-ai/wobb-react-native-linkdin.git"
+  },
+  "author": "Wobb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wobb-ai/wobb-react-native-linkdin/issues"
+  },
+  "homepage": "https://github.com/Wobb-ai/wobb-react-native-linkdin#readme",
+  "keywords": [
+    "react-native",
+    "linkedin-oauth2",
+    "react-native-linkedin",
+    "linkedin",
+    "signin-with-linkedin"
+  ],
+  "dependencies": {
+    "my-package": "^0.0.0"
+  }
+}
