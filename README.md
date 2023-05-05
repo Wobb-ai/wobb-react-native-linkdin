@@ -7,13 +7,13 @@ React native linkedin iOS and android.
 yarn
 
 ```bash
-yarn add @wobb/-react-native-linkedin
+yarn add @wobb/wobb-react-native-linkdin
 ```
 
 npm
 
 ```bash
-npm install @wobb/-react-native-linkedin
+npm install @wobb/wobb-react-native-linkdin
 ```
 
 # Compatibility
