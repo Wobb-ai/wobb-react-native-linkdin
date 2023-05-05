@@ -26,5 +26,6 @@
   ],
   "dependencies": {
     "my-package": "^0.0.0"
-  }
+  },
+  "devDependencies": {}
 }
